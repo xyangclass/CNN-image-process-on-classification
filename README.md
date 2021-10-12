@@ -1,4 +1,4 @@
-# Caspston2
+# CNN-image-process-on-classification
 
 the case study on this data will use cluster and image process, to find out how the dog's general body figure will related to its original breed reason, does hound share similarity on face or leg? how about guard dog or Shepherd？
 
